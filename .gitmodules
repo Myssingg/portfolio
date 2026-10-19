@@ -1,0 +1,54 @@
+[submodule "projects/PR2_Forms"]
+	path = projects/PR2_Forms
+	url = https://github.com/Myssingg/PR2_Forms
+[submodule "projects/PR4"]
+	path = projects/PR4
+	url = https://github.com/Myssingg/PR4
+[submodule "projects/PR5.1"]
+	path = projects/PR5.1
+	url = https://github.com/Myssingg/PR5.1
+[submodule "projects/PR5.2"]
+	path = projects/PR5.2
+	url = https://github.com/Myssingg/PR5.2
+[submodule "projects/PR6.1"]
+	path = projects/PR6.1
+	url = https://github.com/Myssingg/PR6.1
+[submodule "projects/PR6.2"]
+	path = projects/PR6.2
+	url = https://github.com/Myssingg/PR6.2
+[submodule "projects/PR7"]
+	path = projects/PR7
+	url = https://github.com/Myssingg/PR7
+[submodule "projects/PR8"]
+	path = projects/PR8
+	url = https://github.com/Myssingg/PR8
+[submodule "projects/PR9"]
+	path = projects/PR9
+	url = https://github.com/Myssingg/PR9
+[submodule "projects/PR10"]
+	path = projects/PR10
+	url = https://github.com/Myssingg/PR10
+[submodule "projects/PR13"]
+	path = projects/PR13
+	url = https://github.com/Myssingg/PR13
+[submodule "projects/PR14"]
+	path = projects/PR14
+	url = https://github.com/Myssingg/PR14
+[submodule "projects/PR15"]
+	path = projects/PR15
+	url = https://github.com/Myssingg/PR15
+[submodule "projects/PR16"]
+	path = projects/PR16
+	url = https://github.com/Myssingg/PR16
+[submodule "projects/PR17"]
+	path = projects/PR17
+	url = https://github.com/Myssingg/PR17
+[submodule "projects/PR18"]
+	path = projects/PR18
+	url = https://github.com/Myssingg/PR18
+[submodule "projects/HardwareStoreMBT"]
+	path = projects/HardwareStoreMBT
+	url = http://github.com/Myssingg/HardwareStoreMBT
+[submodule "projects/UchebnayaPractica"]
+	path = projects/UchebnayaPractica
+	url = https://github.com/Myssingg/UchebnayaPractica
